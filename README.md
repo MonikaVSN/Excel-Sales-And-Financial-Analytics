@@ -7,21 +7,21 @@ The purpose of sales analytics is to review your sales data to identify trends a
      
        ## Primary Insights##
        
-    *1* Create a _[customer performance report]_
-    *2* Conduct a comprehensive comparison between [market performance and sales target ]_
+    *1* Create a _[customer performance report]_[(https://github.com/MonikaVSN/Excel-Sales-And-Financial-Analytics/blob/main/customer%20performance%20report.pdf)]
+    *2* Conduct a comprehensive comparison between [market performance and sales target ]_[(https://github.com/MonikaVSN/Excel-Sales-And-Financial-Analytics/blob/main/Market%20performance%20Vs%20Target%20report.pdf)]
     
        ## Secondary Insights##
        
      *Identify sales patterns and track key performance indicators (KPIs).
      *Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
      
+     
 ## Financial Report :
 **Project objective:**
 The purpose of sales and Financial analytics to evaluate economic trends, set financial policies, build long-term plans for business activity, and identify projects or companies for investment.
 
-**1** Create Profit and Loss (P&L) reports by _[Fiscal Year]
-**2** Create Profit and Loss (P&L) reports by _[Markets]
-**3** Create [Gross Margin percentage for sub zones quarterly] reports
+**1** Create Profit and Loss (P&L) reports by _[Markets]_[(https://github.com/MonikaVSN/Excel-Sales-And-Financial-Analytics/blob/main/Profit%20and%20Loss%20for%20markets.pdf)]
+**2** Create Gross Margin % reports Quarterly_[(https://github.com/MonikaVSN/Excel-Sales-And-Financial-Analytics/blob/main/GM%20%25%20by%20Quarters.pdf)]
 
 
 ## Technical Skills:
@@ -35,5 +35,3 @@ The purpose of sales and Financial analytics to evaluate economic trends, set fi
 ## Soft Skills:
 - [x]	Refined understanding of Sales & Finance Reports
 - [x]	Designing user-centric reports with empathy in mind.
-
-- [x]	Developing a systematic approach to devising a report building plan.
