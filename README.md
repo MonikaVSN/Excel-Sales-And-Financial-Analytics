@@ -12,7 +12,7 @@ The purpose of sales analytics is to review AtliQ Hardware's sales data to ident
 **Project objective:**
 The purpose of Financial analytics is to evaluate economic trends, set financial policies, build long-term plans for business activity, and identify projects or companies for investment.
 
-1.Created Profit and Loss (P&L) reports by [Markets][(https://github.com/MonikaVSN/Excel-Sales-And-Financial-Analytics/blob/main/Profit%20and%20Loss%20for%20markets.pdf)]
+1.Created Profit and Loss (P&L) reports by [Markets](https://github.com/MonikaVSN/Excel-Sales-And-Financial-Analytics/blob/main/Profit%20and%20Loss%20for%20markets.pdf)
 
 2.Created [Gross Margin % by Quarters](https://github.com/MonikaVSN/Excel-Sales-And-Financial-Analytics/blob/main/GM%20%25%20by%20Quarters.pdf)
 
